@@ -34,7 +34,7 @@ To install the gem manually from your shell, run:
 gem install factory_girl
 ```
 
-**Caveat:** As of ActiveSupport 5.0 and above, Ruby 2.2.2+ is required. Because
+***Caveat:*** As of ActiveSupport 5.0 and above, Ruby 2.2.2+ is required. Because
 of Rubygems' dependency resolution when installing gems, you may see an error
 similar to:
 
@@ -57,7 +57,7 @@ for more information on configuring the JRuby environment.
 For versions of Ruby prior to 1.9, please use factory_girl 2.x.
 
 More Information
-----------------
+------------------
 
 * [Rubygems](https://rubygems.org/gems/factory_girl)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/factory-girl)
